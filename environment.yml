@@ -1,0 +1,12 @@
+name: lvbook
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - tensorflow
