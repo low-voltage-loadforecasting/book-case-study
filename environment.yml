@@ -2,11 +2,14 @@ name: lvbook
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
-  - statsmodels
-  - scikit-learn
-  - tensorflow
+  - scikit-learn=1.2.2
+  - seaborn=0.12.2
+  - python=3.10.1
+  - matplotlib=3.7.1
+  - tensorflow=2.11.1
+  - pandas=2.0.1
+  - statsmodels=0.13.5
+  - numpy=1.24.3
+  - nb_conda_kernels=2.3.1
+  - nb_conda=2.2.1
+prefix: 
