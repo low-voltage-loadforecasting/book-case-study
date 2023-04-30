@@ -1,8 +1,4 @@
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/low-voltage-loadforecasting/book-case-study/blob/main/Case_Study_LV_Load_Forecasting_with_ML.ipynb) 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/low-voltage-loadforecasting/book-case-study/HEAD?labpath=https%3A%2F%2Fgithub.com%2Flow-voltage-loadforecasting%2Fbook-case-study%2Fblob%2Fmain%2FCase_Study_LV_Load_Forecasting_with_ML.ipynb)
-
-[![Colab](https://img.shields.io/badge/open-in%20Colab-blue.svg)](https://colab.research.google.com/github/low-voltage-loadforecasting/book-case-study/blob/main/Case_Study_LV_Load_Forecasting_with_ML.ipynb) 
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/low-voltage-loadforecasting/book-case-study/blob/main/Case_Study_LV_Load_Forecasting_with_ML.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/low-voltage-loadforecasting/book-case-study/HEAD?labpath=https%3A%2F%2Fgithub.com%2Flow-voltage-loadforecasting%2Fbook-case-study%2Fblob%2Fmain%2FCase_Study_LV_Load_Forecasting_with_ML.ipynb) [![Colab](https://img.shields.io/badge/open-in%20Colab-blue.svg)](https://colab.research.google.com/github/low-voltage-loadforecasting/book-case-study/blob/main/Case_Study_LV_Load_Forecasting_with_ML.ipynb) 
 
 # Case Study Load Forecasting
 
