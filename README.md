@@ -6,7 +6,7 @@
 
 ## About
 
-This Jupyter notebook accompanies the book Core Concepts and Methods in Load Forecasting, which is available here (TODO).
+This Jupyter notebook accompanies the book Core Concepts and Methods in Load Forecasting, which is available [here](openlibrary.org/works/OL34336875W/Core_Concepts_and_Methods_in_Load_Forecasting).
 
 If you want to view it, you can open the .ipyn file directly, but it will be more nicely formatted if you view it with nbviewer. If you want to run it, read the next section.
 
